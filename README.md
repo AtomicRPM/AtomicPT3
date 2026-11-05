@@ -1,4 +1,4 @@
-<img width="768" height="576" alt="intro-preview" src="https://github.com/user-attachments/assets/3bc325ba-e3b2-4840-82ec-a2ba42dbadc2" />
+<img width="768" height="576" alt="intro-preview" src="https://github.com/user-attachments/assets/3bc325ba-e3b2-4840-82ec-a2ba42dbadc2" /><br>
 Press H for help menu. <br><br>
 ---------<br><br>
 PCB
