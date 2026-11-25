@@ -4,7 +4,7 @@ Press H for help menu. <br><br>
 PCBs<br>
 v1.0
 <img width="1347" height="685" alt="board_1 1" src="https://github.com/user-attachments/assets/9d046d03-a9c6-4b79-be2e-688936adb74e" />
-v2.0
+v2.0 - Select and save favorites
 <img width="1161" height="768" alt="IMG_0288" src="https://github.com/user-attachments/assets/1e654251-2897-4316-b2fb-fa1244f6652e" />
 v4.0
 <img width="1025" height="1165" alt="IMG_0286" src="https://github.com/user-attachments/assets/1fd7b9e7-2127-40c6-ab1d-eeaed4a74d7b" />
